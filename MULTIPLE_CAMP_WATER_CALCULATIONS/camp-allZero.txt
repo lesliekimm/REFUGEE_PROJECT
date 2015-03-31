@@ -1,0 +1,10 @@
+Alpha 0 9.2 0 4 12
+Bravo 0 8.7 180 0 0
+Charlie 0 11.0 30 0 17
+Delta 0 7.9 0 0 9
+Echo 0 8.4 0 1 0
+Fair 0 10.3 3 1 29
+Georgia 0 12 0 2 3
+Harry 0 11 29 3 2
+IceCream 0 7.5 0 2 9
+Jackie 0 15 3 2 9

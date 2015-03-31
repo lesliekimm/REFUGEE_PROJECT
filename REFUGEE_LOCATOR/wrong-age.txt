@@ -1,0 +1,37 @@
+First Name	Last Name	Gender	Age	Camp
+Luksa		Johano		F	63	Alpha
+Gaja		Pipra		F	42	Alpha
+Mirinda		Sprita		F	33	Alpha
+Rubena		Johano		F	3 	Alpha
+Ancjo		Glorinda	M	125	Alpha
+Aleksandro	Micjo		M	43	Alpha
+Mirinda		UNK		F	2	Alpha
+Vilcjo		Stelara		M	31	Bravo
+Ciela		Vilhelmo	F	69	Bravo
+Juvela		Orabela		F	11	Bravo
+Fiera		Merita		F	25	Bravo
+UNK		UNK		F	2	Bravo
+Rubena		Ludoviko	F	17	Delta
+Antono		Alecjo		M	7 	Delta
+Merita 		Sprita		F	70	Delta
+Gaja 		Koralo		F	62	Delta
+Vespera		Johano		M	-30	Delta
+Merita 		Nikolao		F	9 	Delta
+Anejo		UNK		M	3	Delta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+First Name	Last Name	Gender	Age	Camp
+Daniel		Jackson		M	42	Alpha
+Julie		Kim		F	67	Alpha
+UNK		Pollard		F	21	Alpha
+Robert		Cooke		M	24	Alpha
+Angela		Flowers		F	1	Alpha
+Eugene		Leventhal	M	3	Alpha
+Derek		UNK		M	29	Alpha
+Victor		Chang		M	1	Bravo
+Micahel		Crisculo	M	69	Bravo
+Samar		Chami		F	58	Bravo
+Robert		Cooke		M	39	Bravo
+
+
+
